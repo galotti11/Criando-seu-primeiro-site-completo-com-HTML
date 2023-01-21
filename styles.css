@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.flex{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 20px;
+    padding: 20px;
+    
+}
+.header{
+   padding-bottom: 100px;
+}
+.header h2{
+    padding: 10px;
+    font-size: 40px;
+}
+.header p{
+    margin: 5px;
+    padding: 10px;
+    font-size: 30px;
+}
+.content table{
+    solid: #c1c1c1;
+     width: 40%;
+     padding: 20px;
+}
+.content table th{
+    background-color: #c1c1c1;
+}
+select{
+    margin: 10px;
+    padding: 5px;
+}
+form{
+    margin: 10px;
+    padding: 5px;
+}
+
+footer{
+    padding: 30px;
+}
